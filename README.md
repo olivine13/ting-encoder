@@ -25,7 +25,7 @@ crypt or decrypt from byte array
 EncoderUtil.crypt(byte[] buffer);
 `
 
-### OSX
+### OSX or Linux
 #### Compile  #
 
 ```  
